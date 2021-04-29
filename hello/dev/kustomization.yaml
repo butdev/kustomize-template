@@ -1,0 +1,9 @@
+bases:
+- ../base
+
+patchesStrategicMerge:
+- deployment.yaml
+
+images:
+- name: hello
+  newName: skibaasplatformkoceacr.azurecr.io/apps/hello
