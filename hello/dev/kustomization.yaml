@@ -6,4 +6,4 @@ patchesStrategicMerge:
 
 images:
 - name: hello
-  newName: skibaasplatformkoceacr.azurecr.io/apps/hello
+  newName: jbtest.azurecr.io/apps/hello
