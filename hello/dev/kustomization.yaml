@@ -6,5 +6,5 @@ patchesStrategicMerge:
 
 images:
 - name: hello
-  newName: jbtest.azurecr.io/apps/hello
+  newName: jbtestacr.azurecr.io/apps/hello
   newTag: latest
