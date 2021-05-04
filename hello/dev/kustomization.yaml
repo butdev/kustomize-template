@@ -7,4 +7,4 @@ patchesStrategicMerge:
 images:
 - name: hello
   newName: jbtest.azurecr.io/apps/hello
-  newTag: $(Build.BuildNumber)
+  newTag: latest
